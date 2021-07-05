@@ -5,8 +5,7 @@
 // Method can ONLY be called by other methods in THIS class. This DOES NOT add any extra application security. Restricts the methods other developers can call, can help with complicated classes that could break something.
 
 //Protected
-// This method can be called by other methods in THIS class, or by other methods
-// in child classes.
+// This method can be called by other methods in THIS class, or by other methods in child classes.
 
 class Vehicle {
   // color: string;
